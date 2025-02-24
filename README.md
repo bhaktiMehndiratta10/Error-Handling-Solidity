@@ -1,4 +1,4 @@
-# 3.1_BHAKTI_META
+# Error Handling in Solidity
 
 This contract -  "RequireAssertRevert" demonstrates vthe implementation of require(), assert() and revert() functions.
 
