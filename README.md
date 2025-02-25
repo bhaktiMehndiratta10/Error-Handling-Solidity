@@ -1,8 +1,6 @@
 # Error Handling in Solidity
 
-This contract -  "RequireAssertRevert" demonstrates vthe implementation of require(), assert() and revert() functions.
-
-require() , assert() and revert() statements-
+This smart contract -  "RequireAssertRevert" demonstrates the implementation of require(), assert() and revert() functions, which are used for the purpose of error handling.
 
 1) require: 
 The require function is used to validate conditions before executing further code. If the condition is not met, the function call reverts, and any changes are reverted. In the contract, require is used in the decrement function to prevent decrementing the counter if it's already at zero.
